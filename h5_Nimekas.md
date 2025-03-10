@@ -143,6 +143,11 @@ youtube.com.		98	IN	A	142.250.186.174
 Tiedoista ANSWER SECTION tulee nimipalvelimelta ja kertoo sivuston www nimen ja missä URL:ssa se on. 
 Numero nimen jälkeen kertoo kuinka kauan tieto on voimassa sekuntteina.
 
+# Lähteet
+
+https://terokarvinen.com/linux-palvelimet/
+namecheap.com
+
 
 
 
