@@ -53,7 +53,10 @@ Vary: Tässä luetellaan pyynnön osa-alueet, joiden perusteella palvelin valits
 Content-Type: Missä tiedostomuodossa tiedoston sisältö on
 
 
+# Lähteet
 
+https://terokarvinen.com/linux-palvelimet/
+www.geeksforgeeks.org
 
 
 
