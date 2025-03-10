@@ -51,7 +51,9 @@ Volume tiedot ovat levyjen käytettävissä olevia lohkoja tai koko levyn tilavu
 Bus tiedot tarkoittavat data, ohjaus tai osoiteväyliä ja disk kertoo että käyttettävissä on myös CD-ROM levyasema.
 Storage kertoo tallennuslevyn tyypin, nimen ja mihin porttiin se on kytketty. Multimedia on äänilaite, joka on tässä tapauksessa emolevyyn integroitu laite.
 
+# Lähteet
 
+https://terokarvinen.com/linux-palvelimet/
 
 
 
