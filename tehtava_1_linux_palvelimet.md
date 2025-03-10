@@ -39,3 +39,7 @@ Laitteisto: Itse rakennettu pöytäkone / intel Core i7-14700KF / 32GB ram /  k�
 
 
 ![Näyttökuva 2025-01-19 163025](https://github.com/user-attachments/assets/75a0ae0e-c5eb-48ed-87ac-98a014e3878d)
+
+# Lähteet
+
+https://terokarvinen.com/linux-palvelimet/
