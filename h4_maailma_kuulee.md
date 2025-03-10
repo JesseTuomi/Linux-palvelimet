@@ -20,3 +20,10 @@ Asensin apache2 palvelimen virtuaalipalvelimelleni aivan kuten tein omallekkin v
 Kirjauduin virtuaalipalvelimeni URL osoitteeseen 165.22.93.67 ja se avasi sivuni ihan oikeassa netissä.
 
 ![image](https://github.com/user-attachments/assets/984e96f5-7699-4624-a897-daa6dfa45291)
+
+# Lähteet
+
+https://terokarvinen.com/linux-palvelimet/
+digitalocean.com
+github.com/education
+
