@@ -76,4 +76,8 @@ Ohjelmisto testasi sivuni ja sain lopputuloksena seuraavaa:
 ![image](https://github.com/user-attachments/assets/d6dbc29f-8c39-4ba0-98f1-5382993fa3aa)
 
 
+# Lähteet
 
+https://terokarvinen.com/linux-palvelimet/
+www.geeksforgeeks.org
+https://certbot.eff.org/
